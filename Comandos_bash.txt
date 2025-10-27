@@ -1,0 +1,2 @@
+PWD- retorna todo o caminho do diretório
+CAT- abre o arquivo no terminal
