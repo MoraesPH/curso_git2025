@@ -1,0 +1,11 @@
+git init . > cria um repo git na pasta atual
+git status > mostra o 
+status do trabalho 
+git add nome_arquivo > adiciona o arquivo pra ser commitado 
+git commit - m "msg" > faz commit
+
+------------
+nano 'nomearq.txt' > usa o modo editor de texto
+ctrl o > salva
+crtl x> sai
+
