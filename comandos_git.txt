@@ -4,6 +4,7 @@ git add nome 	> adiciona o arquivo pra ser commitado
 git commit -m ''> faz commit
 git diff '' '' 	> mostra toda alteração feita
 git reset '' '' > remove as alterações feitas no commit
+
 ------------
 nano 'nomearq.txt' > usa o modo editor de texto
 ctrl o 	> salva!
