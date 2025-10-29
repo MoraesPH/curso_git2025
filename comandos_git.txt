@@ -1,9 +1,8 @@
-git init . > cria um repo git na pasta atual
-git status > mostra o 
-status do trabalho 
-git add nome_arquivo > adiciona o arquivo pra ser commitado 
-git commit - m "msg" > faz commit
-git diff '' '' > mostra toda alteração feita
+git init . 	 > Cria um repo git na pasta atual
+git status 	 > Mostra o status do trabalho 
+git add nome 	 > Adiciona o arquivo pra ser commitado 
+git commit -m' ' > Faz commit
+git diff '' 	 > Mostra toda alteração feita
 
 ------------
 nano 'nomearq.txt' > usa o modo editor de texto
