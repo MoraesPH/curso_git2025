@@ -3,6 +3,7 @@ git status > mostra o
 status do trabalho 
 git add nome_arquivo > adiciona o arquivo pra ser commitado 
 git commit - m "msg" > faz commit
+git diff '' '' > mostra toda alteração feita
 
 ------------
 nano 'nomearq.txt' > usa o modo editor de texto
