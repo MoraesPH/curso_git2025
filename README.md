@@ -40,6 +40,13 @@
 12. git checkout main
 13. git branch -D <nova_branch>
 
+## Fluxo de trabalho Github <> local (Padronização de branch)
+
+01. Criar uma branch nova para não alterar a main diretamente.
+02. Git Fetch para puxar a branch para o VSCODE.
+03. Git pull para ficar atualizado com o github.
+04. git branch -b <docs/readme>
+
 ----
 
 pedro.moraes
